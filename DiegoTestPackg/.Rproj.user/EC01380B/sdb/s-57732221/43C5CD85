@@ -1,0 +1,17 @@
+{
+    "contents" : "#Url del paquete: \n#install_github(\"dpansan/PackageExample/DiegoTestPackg\")\n\n#Pasos:\n#Crear repositorio en Github\n#Crear paquete, \n#video: https://www.youtube.com/watch?v=9PyQlbAEujY#t=37\n#web: https://www.youtube.com/watch?v=9PyQlbAEujY#t=37\n#webs github http://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio\n#la mejor: http://kbroman.org/pkg_primer/pages/github.html\n\n#En la consola:\n#creo el directorio donde pondré el repositorio local:\n#usuario@ubuntu:~$ cd Dropbox/master\n#usuario@ubuntu:~/Dropbox/master$ mkdir gitlocalrepo\n\nusuario@ubuntu:~/Dropbox/master$ cd gitlocalrepo\nusuario@ubuntu:~/Dropbox/master/gitlocalrepo$ git init\nInitialized empty Git repository in /home/usuario/Dropbox/master/gitlocalrepo/.git/\n\ngit remote add origin https://github.com/dpansan/PackageExample\n\nHago el build del proyecto y lo extraigo en el directorio\n\ngit add -A\ngit commit -m \"Mensaje\"\ngit push -u origin master\n\nSi ya hemos hecho un commit a ese github desde otro directorio dará error\npara arreglarlo: \ngit pull origin master\ngit commit -a\nEscribo mensaje, Control + O, doy nombre, Control +X\ngit push -u origin master\n",
+    "created" : 1420228309402.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4163025095",
+    "id" : "43C5CD85",
+    "lastKnownWriteTime" : 1420229040,
+    "path" : "~/Dropbox/master/Modulo 7/ejercicios/ejercicio6.R",
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled2"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

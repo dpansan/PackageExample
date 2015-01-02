@@ -1,0 +1,17 @@
+{
+    "contents" : "library(devtools)\ninstall_github(\"dpansan/PaqueteEjemplo/DiegoTestPackg\")\n",
+    "created" : 1420229821377.000,
+    "dirty" : true,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "1127731631",
+    "id" : "7965DD8",
+    "lastKnownWriteTime" : 80,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}

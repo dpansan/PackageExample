@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{DiegoTestPackg-package}\n\\alias{DiegoTestPackg-package}\n\\alias{DiegoTestPackg}\n\\docType{package}\n\\title{\nPaquete de prueba Diego Paniagua\n}\n\\description{\n~~ Paquete de prueba que unicamente incluye la función cuadrado\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab DiegoTestPackg\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2015-01-02\\cr\nLicense: \\tab Free\\cr\n}\n~~ Paquete de prueba que unicamente incluye la función cuadrado\n}\n\\author{\nDiego Paniagua <dpansan@gmail.com>\n\nMaintainer: Diego Paniagua <dpansan@gmail.com>\n}\n\\references{\nhttp://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio\nhttp://r-pkgs.had.co.nz/man.html\n}\n\n\\examples{\n}\n",
+    "created" : 1420230277562.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2936311533",
+    "id" : "81A0EFC3",
+    "lastKnownWriteTime" : 1420228105,
+    "path" : "~/Dropbox/master/Modulo 7/ejercicios/DiegoTestPackg/man/DiegoTestPackg-package.Rd",
+    "project_path" : "man/DiegoTestPackg-package.Rd",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}

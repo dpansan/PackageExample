@@ -1,0 +1,16 @@
+{
+    "contents" : "\\name{DiegoTestPackg-package}\n\\alias{DiegoTestPackg-package}\n\\alias{DiegoTestPackg}\n\\docType{package}\n\\title{\n<<<<<<< HEAD\nPaquete de prueba Diego Paniagua\n}\n\\description{\n~~ Paquete de prueba que unicamente incluye la función cuadrado\n=======\nWhat the package does (short line)\n~~ package title ~~\n}\n\\description{\nMore about what it does (maybe more than one line)\n~~ A concise (1-5 lines) description of the package ~~\n>>>>>>> cba9195fb1ebe7932adad0bbab723c34f1974589\n}\n\\details{\n\\tabular{ll}{\nPackage: \\tab DiegoTestPackg\\cr\nType: \\tab Package\\cr\nVersion: \\tab 1.0\\cr\nDate: \\tab 2015-01-02\\cr\n<<<<<<< HEAD\nLicense: \\tab Free\\cr\n}\n~~ Paquete de prueba que unicamente incluye la función cuadrado\n}\n\\author{\nDiego Paniagua <dpansan@gmail.com>\n\nMaintainer: Diego Paniagua <dpansan@gmail.com>\n}\n\\references{\nhttp://git-scm.com/book/es/v1/Fundamentos-de-Git-Guardando-cambios-en-el-repositorio\nhttp://r-pkgs.had.co.nz/man.html\n}\n\n\\examples{\n=======\nLicense: \\tab What license is it under?\\cr\n}\n~~ An overview of how to use the package, including the most important functions ~~\n}\n\\author{\nWho wrote it\n\nMaintainer: Who to complain to <yourfault@somewhere.net>\n~~ The author and/or maintainer of the package ~~\n}\n\\references{\n~~ Literature or other references for background information ~~\n}\n~~ Optionally other standard keywords, one per line, from file KEYWORDS in the R documentation directory ~~\n\\keyword{ package }\n\\seealso{\n~~ Optional links to other man pages, e.g. ~~\n~~ \\code{\\link[<pkg>:<pkg>-package]{<pkg>}} ~~\n}\n\\examples{\n~~ simple examples of the most important functions ~~\n>>>>>>> cba9195fb1ebe7932adad0bbab723c34f1974589\n}\n",
+    "created" : 1420230228881.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3118968051",
+    "id" : "C52933B0",
+    "lastKnownWriteTime" : 1420229578,
+    "path" : "~/Dropbox/master/gitlocalrepo/DiegoTestPackg/man/DiegoTestPackg-package.Rd",
+    "project_path" : null,
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_doc"
+}
