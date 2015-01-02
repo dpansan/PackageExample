@@ -1,0 +1,10 @@
+Package: DiegoTestPackg
+Type: Package
+Title: Simple paquete de prueba
+Version: 1.0
+Date: 2015-01-02
+Author: Diego Paniagua <dpansan@gmail.com>
+Maintainer: Diego Paniagua <dpansan@gmail.com>
+Description: calcula el cuadrdo de un numero
+License: Free
+Packaged: 2015-01-02 18:44:12 UTC; usuario
